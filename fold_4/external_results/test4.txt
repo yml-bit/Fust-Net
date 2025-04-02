@@ -1,0 +1,88 @@
+model2_dur_energy
+Mean Absolute Error: 5.1683
+95% CI: [4.7047, 5.6741]
+Error Variance: 9.7661
+95% CI: [7.8852, 11.6368]
+R² Score: -0.1354
+95% CI: [-0.4794, 0.0868]
+Pearson Correlation: 0.6064
+95% CI: [0.5124, 0.6861]
+Associated p-value: 5.0289e-16
+
+model3_dur_energy_sdr
+Mean Absolute Error: 2.8149
+95% CI: [2.4232, 3.2131]
+Error Variance: 5.7229
+95% CI: [3.8934, 7.8048]
+R² Score: 0.5752
+95% CI: [0.4342, 0.6880]
+Pearson Correlation: 0.7891
+95% CI: [0.7264, 0.8489]
+Associated p-value: 2.8318e-32
+
+model4_dur_energy_size_sdr
+Mean Absolute Error: 2.4704
+95% CI: [2.1227, 2.8499]
+Error Variance: 4.9804
+95% CI: [3.6142, 6.3965]
+R² Score: 0.6550
+95% CI: [0.5645, 0.7339]
+Pearson Correlation: 0.8095
+95% CI: [0.7569, 0.8600]
+Associated p-value: 4.1250e-35
+
+model5_dur_energy_area_size_sdr
+Mean Absolute Error: 2.5270
+95% CI: [2.2184, 2.8897]
+Error Variance: 4.0509
+95% CI: [2.9334, 5.3428]
+R² Score: 0.6751
+95% CI: [0.5415, 0.7599]
+Pearson Correlation: 0.8682
+95% CI: [0.8303, 0.9002]
+Associated p-value: 1.1614e-45
+
+model6_ang_dur_energy_area_size_sdr
+Mean Absolute Error: 2.5094
+95% CI: [2.2156, 2.8381]
+Error Variance: 3.8380
+95% CI: [2.7478, 4.9364]
+R² Score: 0.6845
+95% CI: [0.5771, 0.7681]
+Pearson Correlation: 0.8643
+95% CI: [0.8293, 0.8992]
+Associated p-value: 8.0884e-45
+
+model6_ang_dur_energy_area_size_sdr2
+Mean Absolute Error: 2.5321
+95% CI: [2.2136, 2.8548]
+Error Variance: 3.5859
+95% CI: [2.5697, 4.7306]
+R² Score: 0.6888
+95% CI: [0.5838, 0.7692]
+Pearson Correlation: 0.8639
+95% CI: [0.8249, 0.8985]
+Associated p-value: 9.5974e-45
+
+model7_dis_dur_energy_area_size_sdr_avp_seq
+Mean Absolute Error: 2.2844
+95% CI: [1.9995, 2.5726]
+Error Variance: 3.1782
+95% CI: [2.2838, 4.1046]
+R² Score: 0.7386
+95% CI: [0.6548, 0.8018]
+Pearson Correlation: 0.8730
+95% CI: [0.8399, 0.9036]
+Associated p-value: 9.5550e-47
+
+model8_ang_dis_dur_energy_area_size_sdr_avp_seq
+Mean Absolute Error: 2.4315
+95% CI: [2.1568, 2.7526]
+Error Variance: 3.6886
+95% CI: [2.7685, 4.7293]
+R² Score: 0.7012
+95% CI: [0.5991, 0.7663]
+Pearson Correlation: 0.8636
+95% CI: [0.8234, 0.8974]
+Associated p-value: 1.1441e-44
+
